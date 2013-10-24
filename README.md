@@ -8,14 +8,14 @@ Supports:
 - Extensions for user defined types.
 - Tags.
 
-API docs: http://godoc.org/github.com/vmihailenco/msgpack
+API docs: http://godoc.org/github.com/brandscreen/msgpack
 
 Installation
 ------------
 
 Install:
 
-    go get github.com/vmihailenco/msgpack
+    go get github.com/brandscreen/msgpack
 
 Usage
 -----
@@ -84,4 +84,4 @@ Examples:
 Extensions
 ----------
 
-Look at [appengine.go](https://github.com/vmihailenco/msgpack/blob/master/appengine.go) for example.
+Look at [appengine.go](https://github.com/brandscreen/msgpack/blob/master/appengine.go) for example.

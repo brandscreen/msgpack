@@ -13,11 +13,11 @@ import (
 	"testing"
 	"time"
 
-	"github.com/vmihailenco/msgpack"
+	"github.com/brandscreen/msgpack"
 
+	. "github.com/brandscreen/gocheck"
+	"github.com/brandscreen/gomsgpack"
 	msgpack2 "github.com/ugorji/go-msgpack"
-	"github.com/ugorji/go/codec"
-	. "launchpad.net/gocheck"
 )
 
 type nameStruct struct {
